@@ -1,3 +1,2 @@
 # DS_6
-Main Academy 
-Data Science course
+## Data Science course (Main Academy) 
